@@ -1,0 +1,4 @@
+Day 1 progress
+- import LWJGL libary
+- create basic window
+- create basic renderer (vbo, vao, ebo, shaderprogram, shader)
